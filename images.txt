@@ -1,4 +1,3 @@
-nginx
 grafana/promtail:latest
 grafana/grafana:latest
 grafana/loki:latest
