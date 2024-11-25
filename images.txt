@@ -2,3 +2,4 @@ grafana/promtail:latest
 grafana/grafana:latest
 grafana/loki:latest
 portainer/portainer:latest
+gitlab/gitlab-ce:latest
