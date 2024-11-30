@@ -3,3 +3,4 @@ grafana/grafana:latest
 grafana/loki:latest
 portainer/portainer:latest
 gitlab/gitlab-ce:latest
+mysql:8.0
