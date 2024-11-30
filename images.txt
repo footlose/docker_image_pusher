@@ -4,3 +4,4 @@ grafana/loki:latest
 portainer/portainer:latest
 gitlab/gitlab-ce:latest
 mysql:8.0
+portainer/agent:2.16.2
