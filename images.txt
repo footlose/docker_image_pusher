@@ -5,3 +5,4 @@ portainer/portainer:latest
 gitlab/gitlab-ce:latest
 mysql:8.0
 portainer/agent:2.16.2
+codeberg.org/forgejo/forgejo:9
