@@ -1,11 +1,1 @@
-grafana/promtail:latest
-grafana/grafana:latest
-grafana/loki:latest
-portainer/portainer:latest
-gitlab/gitlab-ce:latest
-mysql:8.0
-portainer/agent:2.16.2
-codeberg.org/forgejo/forgejo:9
-swr.cn-south-1.myhuaweicloud.com/starsl.cn/mysqld_exporter:latest
-redis:latest
 nyanmisaka/jellyfin:latest
