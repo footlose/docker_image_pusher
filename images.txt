@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:latest
+jvmilazz0/kavita:latest
